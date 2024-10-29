@@ -1,0 +1,28 @@
+#coder{
+    object-fit: cover;
+    height: 12.5rem;
+}
+
+
+#digi{
+    object-fit: cover;
+    height: 12.5rem;
+}
+#men{
+    object-fit: cover;
+    height: 12.5rem;
+}
+#top-header{
+    position: sticky;
+    top: 0px;
+    z-index: 3;
+    width: 100%;
+}
+*{
+    padding:0px;
+}
+
+body{
+    overflow-x: hidden;
+    background-color: brown;
+}
